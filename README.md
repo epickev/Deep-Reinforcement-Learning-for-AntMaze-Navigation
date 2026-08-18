@@ -1,6 +1,7 @@
 # Deep-Reinforcement-Learning-for-AntMaze-Navigation
 
 ## Demo
+[![Deep RL AntMaze Navigation Demo](https://img.youtube.com/vi/NfCCaBIAsm0/hqdefault.jpg)](https://www.youtube.com/watch?v=NfCCaBIAsm0)
 
 ## Overview
 
